@@ -1,9 +1,15 @@
 
-<p align="center"><img src="github-header-image (1).png"></p>
+<p align="center"><img src="github-header-image (6).png"></p>
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbuphy&label=Profile%20views&color=0e75b6&style=flat" alt="sanbuphy" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanbuphy&show_icons=true&locale=en&layout=compact" alt="sanbuphy" /></p>
 
 
 <!--
