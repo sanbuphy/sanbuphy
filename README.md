@@ -12,7 +12,7 @@
 最近在研究的问题&写的博客（如果你喜欢，可以一起交流学习，谢谢）：  
 cpu流水线分支预测与代码加速；  
 输入理解音视频编解码，   
-模型算子加速（按兴趣选择通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））
+模型算子加速（按兴趣选择研究GPU通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
