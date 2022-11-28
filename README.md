@@ -9,7 +9,10 @@
 新鲜的福建客家人，~~欢迎广东人食用~~ [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
 我喜欢偏操作系统底层方向涉及"为什么"的问题，喜欢问十万个为什么。如果你也喜欢，欢迎提出各种奇怪的问题&一起交流研究。 
 
-最近在研究的问题&写的博客：cpu流水线分支预测与代码加速；输入理解音视频编解码，模型算子加速（按兴趣选择通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））
+最近在研究的问题&写的博客：  
+cpu流水线分支预测与代码加速；  
+输入理解音视频编解码， 
+模型算子加速（按兴趣选择通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
