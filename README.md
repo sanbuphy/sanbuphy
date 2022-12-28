@@ -11,10 +11,10 @@
 
 最近在研究的问题&写的博客（如果你喜欢，可以一起交流学习，谢谢）：  
 手写深度学习推理框架，
-模型算子加速（按兴趣选择研究TRT底层orGPU通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））  ，
-tensorrt 手写layer映射和插件，
-openvino底层原理分析，
-学习的时间是多么短暂。
+模型算子加速（按兴趣选择研究TRT底层orGPU通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2））， 
+tensorrt 手写layer映射和插件，  
+openvino底层原理分析， 
+学习的时间是多么短暂。   
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
