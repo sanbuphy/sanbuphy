@@ -18,7 +18,7 @@ openvino底层原理分析，
 学习的时间是多么短暂。   
 
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
 
 <p>
 <br><br><br><br><br><br><br>
