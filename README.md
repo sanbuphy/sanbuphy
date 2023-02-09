@@ -7,8 +7,11 @@
 
 ## Who Am I ? 
 I like cooking because I love eating. 
+
 I like photographing because I love pure moments. 
+
 I like blogging because I love sharing. 
+
 All these things make my life worth of living.  
 
 You can contact and I will answer all your emails, be sure. 
