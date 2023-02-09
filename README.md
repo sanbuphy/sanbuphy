@@ -6,6 +6,17 @@
 
 
 ## Who Am I ? 
+I like cooking because I love eating.
+I like photographing because I love pure moments.
+I like blogging because I love sharing.
+All these things make my life worth of living.
+
+You can contact and I will answer all your emails, be sure.
+Your comments are more than welcome.
+
+Thanks to all of you who spend your time reading my homepage.
+
+
 新鲜的福建客家人，~~欢迎广东人食用~~ [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
 我喜欢偏操作系统底层方向涉及"为什么"的问题，喜欢问十万个为什么。如果你也喜欢，欢迎提出各种奇怪的问题&一起交流研究。 
 
