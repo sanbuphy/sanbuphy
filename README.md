@@ -6,30 +6,21 @@
 
 
 ## Who Am I ? 
-I like cooking because I love eating. 
 
-I like photographing because I love pure moments. 
+[自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
+I am interested in the operating systems and enjoy asking "why". If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.
 
-I like blogging because I love sharing. 
+The problems I am currently researching and writing about include:
 
-All these things make my life worth of living.  
+Writing a deep learning inference framework
 
-You can contact and I will answer all your emails, be sure. 
-Your comments are more than welcome.  
+Accelerating model operators (GPU general matrix multiplication (GEMM) optimization, convolutional calculation and CPU instruction acceleration (AVX512/AVX2))
 
-Thanks to all of you who spend your time reading my homepage. 
+Handwriting plugins for TensorRT
 
+Analyzing the underlying principles of OpenVINO
 
-新鲜的福建客家人，~~欢迎广东人食用~~ [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
-我喜欢偏操作系统底层方向涉及"为什么"的问题，喜欢问十万个为什么。如果你也喜欢，欢迎提出各种奇怪的问题&一起交流研究。 
-
-最近在研究的问题&写的博客（如果你喜欢，可以一起交流学习，谢谢）：  
-手写深度学习推理框架，     
-模型算子加速（按兴趣选择研究TRT底层orGPU通用矩阵乘(GEMM)优化或卷积计算与CPU指令加速（SIMD/AVX2）），     
-tensorrt 手写layer映射和插件，  
-openvino底层原理分析， 
-
-学习的时间是多么短暂。   
+Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
