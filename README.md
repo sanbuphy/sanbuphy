@@ -13,7 +13,7 @@
 
 I am interested in the operating systems and enjoy asking "why". If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.
 
-The problems I am currently researching and writing about include:
+The problems I am currently learning:
 
 - Writing a deep learning inference framework
 - Accelerating model operators (GPU general matrix multiplication (GEMM) optimization, convolutional calculation and CPU instruction acceleration (AVX512/AVX2))
