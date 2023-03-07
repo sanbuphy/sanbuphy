@@ -20,7 +20,7 @@ The problems I am currently learning:
 - Handwriting plugins for TensorRT
 - Analyzing the underlying principles of OpenVINO
 
-- ⚡ Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
+⚡ Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
 
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
