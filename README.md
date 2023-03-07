@@ -7,7 +7,11 @@
 
 ## Who Am I ? 
 
+- 🔭 I’m currently working on Deep learning deployment and acceleration.
+- 🌱 I’m currently learning DL system and Specific Deep learning inference frameworks.
+
 [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
+
 I am interested in the operating systems and enjoy asking "why". If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.
 
 The problems I am currently researching and writing about include:
