@@ -16,7 +16,7 @@ I am interested in the operating systems and enjoy asking "why". If you share th
 The problems I am currently learning:
 
 - Writing a deep learning inference framework
-- Accelerating model operators (GPU general matrix multiplication (GEMM) optimization, convolutional calculation and CPU instruction acceleration (AVX512/AVX2))
+- Accelerating model operators (GPU general matrix multiplication (GEMM) optimization, convolutional calculation and CPU acceleration (AVX512/AVX2))
 - Handwriting plugins for TensorRT
 - Analyzing the underlying principles of OpenVINO
 
