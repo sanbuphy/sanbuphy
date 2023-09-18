@@ -16,10 +16,10 @@ I am interested in the operating systems and enjoy asking "why". If you share th
 The problems I am currently learning:
 
 - Writing a deep learning inference framework
-- Accelerating model operators (GPU general matrix multiplication (GEMM) optimization, convolutional calculation and CPU acceleration (AVX512/AVX2))
-- Handwriting plugins for TensorRT
-- Analyzing the underlying principles of OpenVINO
-- Pytorch fx
+- CUDA programming / C++
+- Learning to write operator for Paddle Pytorch ONNX TensorRT
+- How Pytorch fx work
+- MLsys
 
 💬 Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
 
