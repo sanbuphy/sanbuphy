@@ -13,7 +13,7 @@
 
 I am interested in the operating systems and enjoy asking "why" 🤗.  If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.    
 
-Firmly believe that only advanced productive forces can drive economic development and progress. Always looking forward to the success of Starship, hoping that humanity can become a multi-planetary species soon.🚀🚀🚀
+Firmly believe that only advanced productive forces can drive economic development and progress. Always looking forward to the success of SpaceX Starship, hoping that humanity can become a multi-planetary species soon.🚀🚀🚀
 
 
 The problems I am currently learning:
