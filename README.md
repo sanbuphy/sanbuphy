@@ -12,12 +12,13 @@
 - 📫 How to reach me: [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
 
 I am interested in the operating systems and enjoy asking "why". If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.    
+
 Firmly believe that only advanced productive forces can drive economic development and progress. Always looking forward to the success of Starship, hoping that humanity can become a multi-planetary species soon.
 The problems I am currently learning:
 
 - Writing a deep learning inference framework
 - CUDA programming
-- Learning to write operator for Paddle Pytorch ONNX TensorRT
+- Register operator for Paddle Pytorch ONNX TensorRT
 - Pytorch 2.0 new features
 - MLsys
 
