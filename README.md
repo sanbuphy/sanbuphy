@@ -20,7 +20,7 @@ The problems I am currently learning:
 
 - Writing a deep learning inference framework
 - CUDA programming
-- Register operator for Paddle Pytorch ONNX TensorRT
+- Register operator for Paddle Pytorch OpenVINO ONNX TensorRT 
 - Pytorch 2.0 new features
 - MLsys
 
