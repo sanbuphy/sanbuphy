@@ -7,21 +7,22 @@
 
 ## Who Am I ? 
 
-- 🔭 I’m currently working on Deep learning deployment, acceleration and AIGC.
-- 🌱 I’m currently learning DL system and Specific Deep learning inference frameworks.
-- 📫 How to reach me: [自我介绍](https://sanbuphy.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/)   
+- 🔭 I’m currently working on Deep learning deployment and AIGC Algorithm development.
+- 🌱 I’m currently learning DL system and The inside about Diffusion model .
+- 📫 How to reach me: [自我介绍](https://www.aispacewalk.cn/about)   
 
-I am interested in the operating systems and enjoy asking "why" 🤗.  If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.    
+I am interested in the DL systems and enjoy asking "why" 🤗.  If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.    
 
 Firmly believe that only advanced productive forces can drive economic development and progress. Always looking forward to the success of SpaceX Starship, hoping that humanity can become a multi-planetary species soon.🚀🚀🚀
 
 
 The problems I am currently learning:
 
-- Writing a deep learning inference framework
+- Finetune a beautiful diffusion model
 - CUDA programming
-- Register operator for Paddle Pytorch OpenVINO ONNX TensorRT 
+- Register operator / plugin for Paddle Pytorch OpenVINO ONNX TensorRT 
 - Pytorch 2.0 new features
+- write a DL paper
 - MLsys
 
 💬 Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
