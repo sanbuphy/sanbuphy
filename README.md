@@ -18,7 +18,7 @@ Firmly believe that only advanced productive forces can drive economic developme
 
 The problems I am currently learning:
 
-- Finetune a beautiful diffusion model
+- Diffusion model
 - CUDA programming
 - Register operator / plugin for Paddle Pytorch OpenVINO ONNX TensorRT 
 - Pytorch 2.0 new features
