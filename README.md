@@ -1,5 +1,5 @@
 ## Who Am I ? 
-- e/acc (Effective accelerationism)
+- e/acc (Effective accelerationism) & EA (Effective altruism)
 - 🔭 I’m currently working on Deep learning deployment and AIGC Algorithm development.
 - 🌱 I’m currently learning DL system and The inside about Diffusion model .
 - 📫 How to reach me: [自我介绍](https://www.aispacewalk.cn/about)   
