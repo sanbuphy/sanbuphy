@@ -1,25 +1,10 @@
 ## Who Am I ? 
 - e/acc (Effective accelerationism) & EA (Effective altruism)
-- 🔭 I’m currently working on Deep learning deployment and AIGC Algorithm development.
-- 🌱 I’m currently learning DL system and The inside about Diffusion model .
-- 📫 How to reach me: [自我介绍](https://www.aispacewalk.cn/about)   
-
-I am interested in the DL systems and enjoy asking "why" 🤗.  If you share the same interests, feel free to ask me any strange questions and we can discuss and research together.    
-
-Firmly believe that only advanced productive forces can drive economic development and progress. Always looking forward to the success of SpaceX Starship, hoping that humanity can become a multi-planetary species soon.🚀🚀🚀
-
-
-The problems I am currently learning:
-
-- Diffusion model
-- CUDA programming
-- Register operator / plugin for Paddle Pytorch OpenVINO ONNX TensorRT 
-- Pytorch 2.0 new features
-- write a DL paper
-- MLsys
-
+- 📫 How to reach me: [自我介绍](https://www.aispacewalk.cn/about)
+  
 💬 Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
 
+Strive to create beautiful things :).
 
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
 
