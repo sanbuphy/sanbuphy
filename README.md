@@ -1,6 +1,6 @@
 ## Who Am I ? 
-- e/acc (Effective accelerationism) & EA (Effective altruism)
-- 📫 How to reach me: [自我介绍](https://www.aispacewalk.cn/about)
+
+- 📫 How to reach me: [my blog](https://www.aispacewalk.cn/)
   
 💬 Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
 
