@@ -1,6 +1,6 @@
 ## Who Am I ? 
 
-Image GenAI / LLM / Open source community
+Image GenAI / LLM / Open Source Community
 
 Bring AI into real life — Lower the threshold for people to attain happiness.
  
