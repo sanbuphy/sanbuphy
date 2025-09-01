@@ -8,6 +8,4 @@ Bring AI into real life — Lower the threshold for people to attain happiness.
 - Strive to create beautiful things :)
 - How to reach me: [Sanbu'log](https://www.aispacewalk.cn/) Email: physicoada@gmail.com
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanbuphy&show_icons=true&locale=en&theme=dracula" alt="sanbuphy" /></p>
-
-[![sanbuphy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![sanbuphy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sanbuphy&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
