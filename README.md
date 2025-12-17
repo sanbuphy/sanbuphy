@@ -1,9 +1,6 @@
 ## Who Am I ? 
 
-Generative AI user / Open Source Contributor
-
-I want to find a solution for how to make everyone happy.  
-Time flies like an arrow, and the years pass like a shuttle. The time for learning is short, and there is so much that we don't know.
+A curious fool.
 
 - How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
 - Email: physicoada@gmail.com
