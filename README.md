@@ -18,4 +18,6 @@ I build learning resources for AI coding and agent systems.
 | Harness Engineering | [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Minimal harness engineering, built 0→1 for hands-on learning |
 | | [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | Curated tools & guides for harness engineering |
 
-All projects are beginner-friendly, implementation-focused, and designed for hands-on learning. Hope they help you get started :)
+All projects are beginner-friendly, implementation-focused, and designed for hands-on learning.
+
+Hope they help you get started :)
