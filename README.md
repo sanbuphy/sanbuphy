@@ -1,8 +1,6 @@
 # Hi there 👋
 
-A curious fool.
-
-- How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
+- I'm a curious fool. How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
 - Email: physicoada@gmail.com
 
 ## Projects
