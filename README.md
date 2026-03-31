@@ -14,7 +14,7 @@ Vibe Coding & AI Assistants
 Agent Fundamentals (~200 lines each)
 - [nanoAgent](https://github.com/sanbuphy/nanoAgent) – If you can read ~100 lines of Python, you understand agents
 - [nanoMCP](https://github.com/sanbuphy/nanoMcp) – If you can read ~200 lines of Python, you understand MCP
-- [nanoSkill](https://github.com/sanbuphy/nanoSkill) – If you can read ~200 lines of Python, you understand Skills
+- [nanoSkill](https://github.com/sanbuphy/nanoSkills) – If you can read ~200 lines of Python, you understand Skills
 - [nanoMemory](https://github.com/sanbuphy/nanoMemory) – If you can read ~200 lines of Python, you understand agent memory
 
 Harness Engineering
