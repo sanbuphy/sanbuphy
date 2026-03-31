@@ -1,9 +1,11 @@
-## Who Am I ? 
+# Hi there 👋
 
 A curious fool.
 
 - How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
 - Email: physicoada@gmail.com
+
+## Projects
 
 I build learning resources for AI coding and agent systems.
 
