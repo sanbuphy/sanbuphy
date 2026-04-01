@@ -7,7 +7,7 @@
 
 | Category | Repository | Description |
 |----------|------------|-------------|
-| Vibe Coding & AI Assistants | [easy-vibe](https://github.com/datawhalechina/easy-vibe) | A systematic tutorial on vibe coding, from idea to product |
+| Vibe Coding & AI Assistants | [easy-vibe](https://github.com/datawhalechina/easy-vibe) |(highly recommend🌟) A systematic tutorial on vibe coding, from idea to product |
 | | [hello-claw](https://github.com/datawhalechina/hello-claw) | Adopt and build your first AI assistant with OpenClaw |
 | Agent Fundamentals | [nanoAgent](https://github.com/sanbuphy/nanoAgent) | If you can read ~100 lines of Python, you understand agents |
 | | [nanoMCP](https://github.com/sanbuphy/nanoMcp) | If you can read ~200 lines of Python, you understand MCP |
