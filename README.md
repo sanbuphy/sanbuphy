@@ -1,11 +1,9 @@
 # Hi there 👋
 
-- I'm a curious fool. How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
+- I build learning resources for AI coding and agent systems. How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
 - Email: physicoada@gmail.com
 
 ## Projects
-
-I build learning resources for AI coding and agent systems.
 
 | Category | Repository | Description |
 |----------|------------|-------------|
