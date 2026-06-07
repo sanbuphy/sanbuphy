@@ -15,7 +15,7 @@ I focus on AI coding, agent applications, and frontier papers around agents, RL,
 | [hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Modern RL practice course |
 | [modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) | 23 runnable PyTorch LLM notebooks |
 | [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Project-based harness engineering course |
-| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | Vibe coding tutorial for building apps |
+| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | Vibe coding for learners of any age or background |
 | [hello-claw](https://github.com/datawhalechina/hello-claw) | OpenClaw learning and skills tutorial |
 
 ## Personal Work
@@ -32,3 +32,5 @@ I focus on AI coding, agent applications, and frontier papers around agents, RL,
 I want to use agents to solve real problems in coding, research, learning, and automation.
 
 I read frontier papers, then turn the ideas into runnable projects.
+
+I am also exploring how AI can raise the ceiling of human creativity, and I hope that future arrives soon. If you are interested in this direction, feel free to reach out.
