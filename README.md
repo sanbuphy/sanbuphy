@@ -1,21 +1,34 @@
-# Hi there 👋
+# Sanbu
 
-- I build learning resources for AI coding and agent systems. How to reach me: [Sanbu'log](https://www.aispacewalk.cn/)  
-- Email: physicoada@gmail.com
+I build and study agent systems.
 
-## Projects
+I focus on AI coding, agent applications, and frontier papers around agents, RL, tools, memory, and LLM systems.
 
-| Repository | Description |
-|------------|-------------|
-| [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Minimal harness engineering, built 0→1 for hands-on learning |
-| [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | Curated tools & guides for harness engineering |
-| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | Modern coding course for beginners to master step by step. |
-| [hello-claw](https://github.com/datawhalechina/hello-claw) | Adopt and build your first AI assistant with OpenClaw |
-| [nanoAgent](https://github.com/sanbuphy/nanoAgent) | If you can read ~100 lines of Python, you understand agents |
-| [nanoMCP](https://github.com/sanbuphy/nanoMcp) | If you can read ~200 lines of Python, you understand MCP |
-| [nanoSkill](https://github.com/sanbuphy/nanoSkills) | If you can read ~200 lines of Python, you understand Skills |
-| [nanoMemory](https://github.com/sanbuphy/nanoMemory) | If you can read ~200 lines of Python, you understand agent memory |
+## WalkingLabs
 
-All projects are beginner-friendly, implementation-focused, and designed for hands-on learning.
+[WalkingLabs](https://github.com/walkinglabs) builds open tutorials and projects for Agentic AI, LLM agents, RL, and multi-agent systems.
 
-Hope they help you get started :)
+## Community Work
+
+| Project | What it is |
+| --- | --- |
+| [hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) | Modern RL practice course |
+| [modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook) | 23 runnable PyTorch LLM notebooks |
+| [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Project-based harness engineering course |
+| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | Vibe coding tutorial for building apps |
+| [hello-claw](https://github.com/datawhalechina/hello-claw) | OpenClaw learning and skills tutorial |
+
+## Personal Work
+
+| Project | What it is |
+| --- | --- |
+| [nanoAgent](https://github.com/sanbuphy/nanoAgent) | Minimal function-calling agent |
+| [nanoMCP](https://github.com/sanbuphy/nanoMcp) | Minimal MCP server and clients |
+| [nanoSkill](https://github.com/sanbuphy/nanoSkills) | Minimal Agent Skills implementation |
+| [nanoMemory](https://github.com/sanbuphy/nanoMemory) | 9 small agent memory demos |
+
+## Direction
+
+I want to use agents to solve real problems in coding, research, learning, and automation.
+
+I read frontier papers, then turn the ideas into runnable projects.
