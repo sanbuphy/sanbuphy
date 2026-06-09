@@ -4,10 +4,6 @@ I build and study agent systems.
 
 I focus on AI coding, agent applications, and frontier papers around agents, RL, tools, memory, and LLM systems.
 
-## WalkingLabs
-
-[WalkingLabs](https://github.com/walkinglabs) builds open tutorials and projects for Agentic AI, LLM agents, RL, and multi-agent systems.
-
 ## Community Work
 
 | Project | What it is |
